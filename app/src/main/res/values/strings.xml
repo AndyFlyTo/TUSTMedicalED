@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MedicalED</string>
+    <string name="patient">患者</string>
+    <string name="doctor">医生</string>
 </resources>

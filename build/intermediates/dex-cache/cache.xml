@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_38bdc74dbe932164814abd6f825d8c81c3cf43be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.github.flavienlaurent.datetimepicker\library\0.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2fc859b7abb78d29169f6a582b45cbe1f3f1a4cc">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.flavienlaurent.datetimepicker-library-0.0.2_a611d9217bea72c662344cd5e5dac385417f65fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a32d5fd804e5da12b2c49876ba260cab7b48e159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="deba150469acc243dc79128c45b3c94decef0fbb">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6feb403cb15f0550aeaf84b8d9b5393498655079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_35fd4f039398ef93c8fde2e58906c4c5a2ad44c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="8419191d25f4105772fc16b55a005a270cb4d4c8">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.rey5137-material-1.2.4_4e558659e7e5147229b3df566600d09b8d124932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e56ec39323eab41f0ab73fbc1fa758a61c715187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\it.sephiroth.android.library.bottomnavigation\bottom-navigation\1.0.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="142a33595ee8c9ee3212010d01a396b61a2f2656">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\it.sephiroth.android.library.bottomnavigation-bottom-navigation-1.0.7_1256d140a9199e20c59728cab1f32b173ecc7999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\TUSTMedicalED\smooth-checkbox-library\unspecified\jars\libs\junit-4.12.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="23810b51dd310fdedad365c494d5b3b19ccea200">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\8\junit-4.12_3fc0acfec0f846edb2269f03b9277e7adb79313e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.5_e19bcd90bb85d6e144719c1c03f129cc20c8fd75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_e93513e2aae4aaf1e44753e103e23eeb30e204a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_aaa60ceed4e02e257dd162ef009b7d6097ba7565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_studio_2.2_preview_3\android-studio\gradle\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha2\constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d5b32a2a1529a72472729ee5c94779d0ce9951eb">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha2_b93f8fc2c653f6b085f5bad2eaf81f6b80e9a93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rengwuxian.materialedittext-library-2.1.4_cce07026715cb9a4d24533e7f38880cd740a687c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha2_40e00ee96a0669f3f10b820c49355117f4eda1db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ac5793de38638da6125d293d93cfb404f6a06b42">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5d25e61992edb4d725a49963c75118358830c722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.8.5.9_34847548fbd08557d090ad665a2f02b2d87aeb05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_85399990e001047d801d5833c58663374aca9ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.nightonke\wowoviewpager\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="089502370b5152aa729ba135e512d0eae2efc6b3">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nightonke-wowoviewpager-1.0.2_80c9992c7171f81d34eb6a7605ec3493e2920d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.diogobernardino\williamchart\2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.diogobernardino-williamchart-2.2_5c3aa991cffc467f5449d95d57aa919dfc2fb970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.daimajia.swipelayout\library\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.swipelayout-library-1.2.0_7c8ad73c4d2ccb25ae69afd0dee9c753d2f4eb21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_2ab3bb26bc8cef182a7b632d0c74096eaa00ebf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.infstory\proguard-annotations\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a44c2defa7d0b0cb44d0386185da05cc9493e346">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.infstory-proguard-annotations-1.0.2_8ce2e4b5c8dcc82bcb563219bdbec674e3ac11d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_17a216cdbe809c1903989269eba9cfdc1042594a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.nightonke\jellytogglebutton\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="55b0bb6c2a3f5ae994be5011ba36cab31bf565c0">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nightonke-jellytogglebutton-1.0.2_99fd243afce50c13f6b695d9e2c7b2c37b4dbb73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.4\6404f77b92ec723cc132e825afe85a07da85ee6\systembartint-1.0.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.4_511134254a9e722030200fbfad1b7a446e7f6211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.1.0_1ca6f176cad559a249449d3d857def1028002dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_564214456eecbcf72217275f06a6d42df6cdf024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_16c151805973a651aff6f53c180312dcdefd2ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chen\TUSTMedicalED\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\chen\TUSTMedicalED\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d1407a66971873f09afe9040529c4cfd2682b370\classes.dex" />
+    </item>
+
+</items>

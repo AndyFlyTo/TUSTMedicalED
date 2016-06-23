@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/image_user"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            app:civ_border_color="@android:color/background_light"
+            app:civ_border_width="2dp"
+            android:src="@mipmap/ic_launcher"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/text_username"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginRight="10dp"
+            app:met_primaryColor="#7bbbdf"
+            app:met_minCharacters="3"
+            app:met_maxCharacters="10"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="请输入用户名"
+            app:met_iconLeft="@mipmap/ic_launcher"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/text_password"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginRight="10dp"
+            app:met_primaryColor="#7bbbdf"
+            app:met_minCharacters="5"
+            app:met_maxCharacters="10"
+            android:hint="请输出密码"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="请输入密码"
+
+            app:met_iconLeft="@mipmap/ic_launcher"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <cn.refactor.library.SmoothCheckBox
+            android:id="@+id/checkbox_doctor"
+            android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:color_checked="@android:color/holo_blue_dark"
+            app:color_tick="@android:color/background_light"/>
+            <com.rey.material.widget.TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/doctor"
+                android:textSize="20sp"
+                />
+
+            <cn.refactor.library.SmoothCheckBox
+                android:layout_marginTop="10dp"
+                android:id="@+id/checkbox_patient"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                app:color_checked="@android:color/holo_blue_dark"
+                app:color_tick="@android:color/background_light"/>
+
+            <com.rey.material.widget.TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/patient"
+                android:textSize="20sp"
+                android:id="@+id/textView" />
+
+        </LinearLayout>
+        <com.rey.material.widget.Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/bt_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="登录"
+            android:gravity="center"
+            android:textSize="24sp"
+
+
+            ></com.rey.material.widget.Button>
+
+
+    </LinearLayout>
+    <com.rey.material.widget.TextView
+        android:id="@+id/tv_forget_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:text="忘记密码？"
+        android:textSize="20sp"
+        ></com.rey.material.widget.TextView>
+    <com.rey.material.widget.TextView
+        android:id="@+id/tv_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:text="注册？"
+        android:textSize="20sp"/>
+
+</RelativeLayout>
