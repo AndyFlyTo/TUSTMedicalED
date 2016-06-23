@@ -1,4 +1,9 @@
 # TUSTMedicalED
+
+# 项目初步整体架构图
+
+![1](https://raw.githubusercontent.com/guaidaokakaxi/TUSTMedicalED/master/项目初步架构图.jpg)
+
 # 晨晨同学看这里
 项目名称是:TUSTMedicalED
 
