@@ -1,1 +1,1 @@
-include ':app', ':smooth-checkbox-library'
+include ':app', ':smooth-checkbox-library', ':core', ':model', ':api'
